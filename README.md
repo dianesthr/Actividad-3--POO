@@ -5,7 +5,7 @@
 **Documento:** 1096257725  
 **Asignatura:** Programación Orientada a Objetos  
 **Docente:** Walter Hugo Arboleda Mazo  
-**Fecha:** 21/10/2026  
+**Fecha:** 22/10/2026  
 
 ## Actividad 3
 
