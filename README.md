@@ -5,9 +5,9 @@
 **Documento:** 1096257725  
 **Asignatura:** Programación Orientada a Objetos  
 **Docente:** Walter Hugo Arboleda Mazo  
-**Fecha:** 08/10/2026  
+**Fecha:** 21/10/2026  
 
-## Actividad 2
+## Actividad 3
 
 ### Libros de referencia
 
@@ -16,4 +16,4 @@
 
 ## Descripción
 
-Este repositorio contiene el desarrollo de la **Actividad 2** de la asignatura **Programación Orientada a Objetos (POO).** Desarrollo de ejercicios utilizando **Python.**
+Este repositorio contiene el desarrollo de la **Actividad 3** de la asignatura **Programación Orientada a Objetos (POO).** Desarrollo de ejercicios utilizando **Python.**
